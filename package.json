@@ -1,0 +1,19 @@
+{
+  "name": "appiumcucumberjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitameditha/AppiumCucumberJs.git"
+  },
+  "author": "Gita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitameditha/AppiumCucumberJs/issues"
+  },
+  "homepage": "https://github.com/gitameditha/AppiumCucumberJs#readme"
+}
