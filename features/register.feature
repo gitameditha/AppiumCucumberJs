@@ -1,4 +1,4 @@
-        @userRegisterTest
+        @RegisterTest
 Feature: User Register Test
 
         Background: Go to screen the apps
